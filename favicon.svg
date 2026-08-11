@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Filishin">
+  <rect width="64" height="64" rx="12" fill="#141311"/>
+  <!-- F mark -->
+  <path d="M20 16h24v7H28v8h13v7H28v14h-8z" fill="#f6f4ef"/>
+  <!-- amber i-dot accent (from the FILISHIN wordmark) -->
+  <rect x="46" y="16" width="7" height="7" rx="1.5" fill="#f2a900"/>
+</svg>
